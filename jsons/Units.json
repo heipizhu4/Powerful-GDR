@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Giant Death Robot",
+		"unitType": "Armored",
+		"movement": 10,
+		"strength": 300,
+		"cost": 425,
+		"requiredTech": "Nuclear Fusion",
+		"requiredResource": "Uranium",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit","[100]% chance to intercept air attacks"],
+		"attackSound": "gdrAttack"
+	},
+]
